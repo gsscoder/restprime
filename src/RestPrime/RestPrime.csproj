@@ -6,10 +6,14 @@
     <Nullable>enable</Nullable>
     <LangVersion>13</LangVersion>
     <Title>REST Prime Library</Title>
-    <Description>.NET REST reusable types and utilities</Description>
+    <Description>Reusable .NET REST types and utilities</Description>
     <Version>8.1.0</Version>
     <AssemblyName>RestPrime</AssemblyName>
     <RootNamespace>RestPrime</RootNamespace>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.3.0" />
+  </ItemGroup>
 
 </Project>
