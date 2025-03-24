@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>13</LangVersion>
+    <Title>REST Prime Library</Title>
+    <Description>.NET REST reusable types and utilities</Description>
+    <Version>8.1.0</Version>
+    <AssemblyName>RestPrime</AssemblyName>
+    <RootNamespace>RestPrime</RootNamespace>
+  </PropertyGroup>
+
+</Project>
